@@ -32,6 +32,10 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+# gems for New Relic and Engine Yard
+ gem 'newrelic_rpm'
+ gem 'ey_config'
+ 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

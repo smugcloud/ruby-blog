@@ -1,0 +1,155 @@
+# Logfile created on 2014-10-17 16:02:05 -0700 by logger.rb/44203
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] INFO : Environment: development
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] INFO : Dispatcher: webrick
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] INFO : Application: development
+[10/17/14 16:02:05 -0700 ENG001570.local (32103)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing Net instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Finished instrumentation
+[10/17/14 16:02:06 -0700 ENG001570.local (32103)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Environment: development
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Dispatcher: webrick
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Application: development
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing Net instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Finished instrumentation
+[10/17/14 16:03:01 -0700 ENG001570.local (32128)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Environment: development
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Dispatcher: webrick
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Application: development
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing Net instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Finished instrumentation
+[10/17/14 16:05:10 -0700 ENG001570.local (32202)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Environment: development
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Dispatcher: webrick
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Application: development
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing Net instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Finished instrumentation
+[10/17/14 16:06:13 -0700 ENG001570.local (32249)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Environment: development
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Dispatcher: webrick
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Application: development
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing Net instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Finished instrumentation
+[10/17/14 16:07:05 -0700 ENG001570.local (32293)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Environment: development
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Dispatcher: webrick
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Application: development
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing Net instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Finished instrumentation
+[10/17/14 16:09:10 -0700 ENG001570.local (32328)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Environment: development
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Dispatcher: webrick
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Application: development
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing Net instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Finished instrumentation
+[10/17/14 16:10:27 -0700 ENG001570.local (32354)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Starting the New Relic agent in "development" environment.
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Reading configuration from config/newrelic.yml (/Users/nickleli/Documents/Ruby/blog)
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] ERROR : Failed ERB processing configuration file. This is typically caused by a Ruby error in <% %> templating blocks in your newrelic.yml file.
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] ERROR : ArgumentError: Expected to find EY::Config YAML file at one of: ["/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_deploy.yml", "/Users/nickleli/Documents/Ruby/blog/config/ey_services_config_local.yml"]
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Environment: development
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Dispatcher: webrick
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Application: development
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing ActiveRecord 4 instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing Net instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing deferred Rack instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing Rack::Builder middleware instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing Rails 3+ middleware instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing Rails 4 Controller instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing Rails 4 view instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Installing Rails 4 Error instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Finished instrumentation
+[10/17/14 16:12:00 -0700 ENG001570.local (32459)] INFO : Doing deferred dependency-detection before Rack startup
+[10/17/14 16:12:08 -0700 ENG001570.local (32459)] ERROR : Invalid license key, please contact support@newrelic.com
+[10/17/14 16:12:08 -0700 ENG001570.local (32459)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.

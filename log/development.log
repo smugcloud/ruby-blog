@@ -8886,3 +8886,46 @@ Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-20 15:09:00 -07
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-20 15:09:00 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (25.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (25.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (46.0ms)
+Completed 200 OK in 384ms (Views: 323.4ms | ActiveRecord: 26.9ms)
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-21 09:06:19 -0700
